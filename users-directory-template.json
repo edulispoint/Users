@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "userId": "REPLACE_WITH_USER_ID",
+      "password": "REPLACE_WITH_PASSWORD",
+      "name": "REPLACE_WITH_FULL_NAME",
+      "active": true
+    }
+  ]
+}
