@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "userId": "EDUAID01",
+      "password": "$761Master",
+      "name": "Mohit Patiyal",
+      "active": true
+    },
+    {
+      "userId": "EDUUID01",
+      "password": "Ram@456",
+      "name": "Luv-Kush",
+      "active": true
+    },
+    {
+      "userId": "EDUUID02",
+      "password": "Kanha@765",
+      "name": "Praladh",
+      "active": true
+    }
+
+    
+  ]
+}
