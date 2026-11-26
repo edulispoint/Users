@@ -2,7 +2,7 @@
   "users": [
     {
       "userId": "EDUAID01",
-      "password": "$761Master",
+      "password": "$371Master",
       "name": "Mohit Patiyal",
       "active": true
     },
@@ -16,6 +16,12 @@
       "userId": "EDUUID02",
       "password": "Kanha@765",
       "name": "Praladh",
+      "active": true
+    },
+    {
+      "userId": "EDUUID03",
+      "password": "Hanuman@657",
+      "name": "Maruti",
       "active": true
     }
 
